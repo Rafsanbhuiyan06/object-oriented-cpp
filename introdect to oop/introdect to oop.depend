@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1665892421 source:e:\all program\program in c++\introdect to oop\main.cpp
+	<bits/stdc++.h>
+	"newclass.h"
+
+1665892803 e:\all program\program in c++\introdect to oop\newclass.h
+
+1665892909 source:e:\all program\program in c++\introdect to oop\newclass.cpp
+	"newclass.h"
+	<bits/stdc++.h>
+

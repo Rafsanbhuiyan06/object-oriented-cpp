@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666158299 source:e:\all program\program in c++\seperate file in class\classcpp.cpp
+	"classcpp.h"
+	<iostream>
+
+1666159021 e:\all program\program in c++\seperate file in class\classcpp.h
+
+1666159021 source:e:\all program\program in c++\seperate file in class\main.cpp
+	<iostream>
+	"classcpp.h"
+

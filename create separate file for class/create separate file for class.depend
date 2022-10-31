@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1664968330 source:e:\all program\program in c++\create separate file for class\clsaacpp.cpp
+	"clsaacpp.h"
+	<bits/stdc++.h>
+
+1664968330 e:\all program\program in c++\create separate file for class\clsaacpp.h
+
+1664968018 source:e:\all program\program in c++\create separate file for class\main.cpp
+	<bits/stdc++.h>
+	"clsaacpp.h"
+
